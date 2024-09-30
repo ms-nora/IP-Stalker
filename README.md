@@ -29,6 +29,7 @@ It's designed for cybersecurity enthusiasts and network administrators who need 
   * geoip2
   * ipwhois
   * tkinter
+  * 
 You can install these dependencies using pip:
  ```python pip install requests geoip2 ipwhois```
 
