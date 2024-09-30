@@ -30,13 +30,15 @@ It's designed for cybersecurity enthusiasts and network administrators who need 
   * tkinter
 You can install these dependencies using pip:
  ```python pip install requests geoip2 ipwhois```
+
 #Usage
 
 1. Clone or download the repository to your local machine.
 2. Make sure you have the GeoLite2-City.mmdb file from MaxMind. You can download it here.
 3. Open a terminal in the project directory and run:
   ```python python3 ip_stalker.py```
-4. Input the following:
+
+5. Input the following:
    
  - The IP address you want to analyze.
  - The path to the GeoLite2-City.mmdb file.
