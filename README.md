@@ -1,6 +1,7 @@
 #IP-Stalker
 
 #Description 
+
 The IP Stalker Tool is a Python-based utility for performing comprehensive IP address lookups. 
 It gathers detailed geolocation data, checks for potential abuse reports, identifies proxies or VPNs, and scans common ports to provide insights into an IP's activity. 
 It's designed for cybersecurity enthusiasts and network administrators who need to evaluate the status of IP addresses for security purposes.
