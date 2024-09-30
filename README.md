@@ -1,4 +1,6 @@
 #IP-Stalker
+Copyright [2024] [ms-nora]
+
 
 #Description 
 
@@ -65,7 +67,7 @@ Feel free to submit pull requests or open issues if you have any suggestions or 
 
 #License 
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
 
 
 
